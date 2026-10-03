@@ -1,0 +1,6 @@
+{
+  "name": "Blooming Buds",
+  "description": "Interactive preschool learning app for Nursery, LKG, and UKG with phonics, early literacy, interactive games, whiteboard tracing, guardian tracking, and teacher dashboard for Blooming Buds Preschool Patoda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
